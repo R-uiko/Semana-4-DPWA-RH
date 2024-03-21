@@ -1,0 +1,172 @@
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Semana4RH.dll.config
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Semana4RH.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Semana4RH.pdb
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\WebGrease.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\obj\Debug\Semana4RH.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\obj\Debug\Semana4RH.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\obj\Debug\Semana4RH.csproj.CopyComplete
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\obj\Debug\Semana4RH.dll
+C:\Users\PC\source\repos\Semana4RH\Semana4RH\obj\Debug\Semana4RH.pdb
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Semana4RH.dll.config
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Semana4RH.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Semana4RH.pdb
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\csc.exe
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\csc.exe.config
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\csc.rsp
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\csi.exe
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\csi.exe.config
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\csi.rsp
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.Managed.Core.targets
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.AppContext.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Collections.Immutable.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Console.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Globalization.Calendars.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.IO.Compression.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.IO.Compression.ZipFile.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.IO.FileSystem.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Net.Http.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Net.Sockets.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Reflection.Metadata.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.ValueTuple.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Xml.XmlDocument.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Xml.XPath.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\vbc.exe
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\vbc.exe.config
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\vbc.rsp
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\VBCSCompiler.exe
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\roslyn\VBCSCompiler.exe.config
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Antlr3.Runtime.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Microsoft.Web.Infrastructure.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Newtonsoft.Json.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Helpers.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Mvc.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Optimization.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Razor.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.WebPages.Deployment.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.WebPages.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.WebPages.Razor.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\WebGrease.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Helpers.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Mvc.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Optimization.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.Razor.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.WebPages.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.WebPages.Deployment.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\System.Web.WebPages.Razor.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Newtonsoft.Json.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Antlr3.Runtime.pdb
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.Helpers.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.Mvc.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.Optimization.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.Razor.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.WebPages.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.WebPages.Deployment.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\bin\es\System.Web.WebPages.Razor.resources.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\obj\Debug\Semana4RH.csproj.AssemblyReference.cache
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\obj\Debug\Semana4RH.csproj.CoreCompileInputs.cache
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\obj\Debug\Semana4RH.csproj.Up2Date
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\obj\Debug\Semana4RH.dll
+S:\UU\Visual Stuff\Proyects\Semana4RH\Semana4RH\obj\Debug\Semana4RH.pdb
